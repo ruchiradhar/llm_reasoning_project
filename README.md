@@ -1,6 +1,6 @@
 # 🧠 LLM Reasoning Benchmark
 
-A comprehensive benchmark suite for evaluating small language models on reasoning tasks. This project tests multiple LLMs from HuggingFace on mathematical and logical reasoning challenges, generating comparative leaderboards to assess their capabilities.
+A small demo for evaluating small language models on reasoning tasks. This project tests multiple LLMs from HuggingFace on mathematical and logical reasoning challenges, generating a mini comparative leaderboards to assess their capabilities.
 
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -203,15 +203,3 @@ Created as a demonstration of LLM evaluation capabilities and software engineeri
 - HuggingFace for providing model infrastructure
 - The open-source ML community for model development
 - PyTorch and Transformers teams for excellent libraries
-
-## 🎯 Skills Demonstrated
-
-This project showcases:
-- Machine Learning model integration and evaluation
-- Python software architecture and design patterns
-- Task automation and benchmark frameworks
-- Data analysis and visualization
-- CLI tool development
-- Comprehensive documentation
-- Git version control and professional project organization
-A project to compare to setup and compare common LLMs on reasoning tasks
